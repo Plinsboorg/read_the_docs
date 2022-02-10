@@ -1,3 +1,6 @@
+.. image:: https://readthedocs.org/projects/read-the-docs-try/badge/?version=latest
+:target: https://read-the-docs-try.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 Template for the Read the Docs tutorial
 =======================================
 
